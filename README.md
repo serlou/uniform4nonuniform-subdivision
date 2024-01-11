@@ -3,7 +3,7 @@
 Subdivision schemes are efficient tools to generate curves from a sample of points. This particular scheme was designed to deal with data describing smooth curves in R^n, N>=2. More information about this scheme can be found in [1].
 
 This repository includes:
-1. MATLAB implementation of a uniform subdivision scheme that reproduces parabolas on non-uniform grids. In an example, the curvature is computed using [2].
+1. MATLAB implementation of a uniform subdivision scheme that reproduces parabolas on non-uniform grids. In an example, the curvature is computed using curvature.m and circumcenter.m from [2].
 2. Mathematica notebook with symbolic computations complementing the proofs in [1].
 
 Copyright (c) 2023 Sergio López-Ureña
