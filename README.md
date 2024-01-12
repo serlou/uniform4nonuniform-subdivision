@@ -8,6 +8,6 @@ This repository includes:
 
 Copyright (c) 2023 Sergio López-Ureña
 
-[1] 
+[1] Sergio López-Ureña (2024). A uniform non-linear subdivision scheme reproducing polynomials at any non-uniform grid (https://arxiv.org/abs/2401.05963), arXiv. Submitted January 11, 2024.
 
 [2] Are Mjaavatten (2024). Curvature of a 1D curve in a 2D or 3D space (https://www.mathworks.com/matlabcentral/fileexchange/69452-curvature-of-a-1d-curve-in-a-2d-or-3d-space), MATLAB Central File Exchange. Retrieved January 11, 2024.
