@@ -12,4 +12,4 @@ Copyright (c) 2023 Sergio López-Ureña
 
 [2] Are Mjaavatten (2024). Curvature of a 1D curve in a 2D or 3D space (https://www.mathworks.com/matlabcentral/fileexchange/69452-curvature-of-a-1d-curve-in-a-2d-or-3d-space), MATLAB Central File Exchange. Retrieved January 11, 2024.
 
-This research has been supported through projects CIAICO/2021/227, PID2020-117211GB-I00 funded by MCIN/AEI/10.13039/501100011033 and PID2023-146836NB-I00 funded by MCIU/AEI/10.13039/501100011033.
+This research has been supported by projects CIAICO/2021/227 (funded by Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital, Generalitat Valenciana) and PID2020-117211GB-I00 (funded by Ministerio de Ciencia, Innovación y Universidades, MCIN/AEI/10.13039/501100011033).
